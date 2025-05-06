@@ -1,0 +1,15 @@
+.login td{min-width: 150px;}
+
+.form input[type=text], .form textarea{
+    width: 30%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.form select{
+    width: 10%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.center{text-align: center;}
